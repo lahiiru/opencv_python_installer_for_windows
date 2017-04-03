@@ -1,4 +1,5 @@
 @echo off
+color f1
 cls
 
 REM Set your proxy if exist as http_proxy=proxy.com
