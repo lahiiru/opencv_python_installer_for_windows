@@ -10,4 +10,4 @@ Note that, `cv2.pyd` package file included in this repository is originally host
 
 ## Installing OpenCV for python
 
-Download and extract this repository (Approx. 11.5 Mb). Right click `install.bat` and run as admininstator.
+Download and extract this repository (Approx. 11.5 Mb). Double click `install.bat`.
