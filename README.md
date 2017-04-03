@@ -6,7 +6,7 @@ Note that, `cv2.pyd` package file included in this repository is originally host
 
 ## Prerequisites
 
-   * [Python 2.7 (with pip)](https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi)
+   * Install [Python 2.7 (with pip)](https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi)
 
 ## Installing OpenCV for python
 
