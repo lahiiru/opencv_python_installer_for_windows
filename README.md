@@ -1,7 +1,7 @@
 # OpenCV python library installer for windows
 
 Small batch script for installing OpenCV in windows easily. This batch file turns off proxy and install Numpy and Matplotlib 
-which are the dependacies of OpenCV. If you wish to follow examples, you can find those [here](https://github.com/opencv/opencv). 
+which are the dependacies of OpenCV. If you wish to follow OpenCV python examples, you can find those [here](https://github.com/opencv/opencv). 
 Note that, `cv2.pyd` package file included in this repository is originally hosted [here](https://sourceforge.net/projects/opencvlibrary/files/opencv-win/)
 
 ## Prerequisites
